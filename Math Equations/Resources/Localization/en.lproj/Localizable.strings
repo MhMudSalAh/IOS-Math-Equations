@@ -1,0 +1,24 @@
+/*
+ Localizable.strings
+ Math Equations
+ 
+ Created by MhMuD SalAh on 01/07/2021.
+*/
+
+"app_name" = "Math Equations";
+"home" = "Home";
+"settings" = "Settings";
+"language" = "Language";
+"current_language" = "English";
+"push_notifications" = "Send Notifications";
+"english" = "English";
+"arabic" = "العربية";
+"change_language_message" = "Select your language";
+"cancel" = "Cancel";
+"apply" = "Apply";
+"looks_great" = "Looks great!";
+"ok" = "Ok";
+"home" = "Home";
+"result" = "Result";
+"choose_delay_time" = "Choose Delay Time";
+"seconds" = "Seconds";

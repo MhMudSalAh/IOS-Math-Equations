@@ -1,0 +1,24 @@
+/* 
+ Localizable.strings
+ Math Equations
+ 
+ Created by MhMuD SalAh on 01/07/2021.
+*/
+
+"app_name" = "المعادلات الرياضية";
+"home" = "الرئيسية";
+"settings" = "الإعدادات";
+"language" = "اللغة";
+"current_language" = "العربية";
+"push_notifications" = "إرسال إشعارات";
+"english" = "الإنجليزية";
+"arabic" = "العربية";
+"change_language_message" = "اختيار اللغة";
+"cancel" = "إلغاء";
+"apply" = "قبول";
+"looks_great" = "عظيم!";
+"ok" = "حسناً";
+"home" = "الرئيسية";
+"result" = "النتيجة";
+"choose_delay_time" = "أختر وقت التأخير";
+"seconds" = "ثواني";
